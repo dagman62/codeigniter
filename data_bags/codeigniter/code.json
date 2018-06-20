@@ -1,0 +1,13 @@
+{
+    "id":           "code",
+    "ipaddress":    "192.168.1.150",
+    "dbadmin":      "root",
+    "dbname":       "codeigniter",
+    "dbpasswd":     "admin",
+    "dbuser":       "webuser",
+    "dbuserpasswd": "admin123",
+    "chefip":       "192.168.1.123",
+    "cheffqdn":     "dagman62-centos.example.com",
+    "chefhost":     "dagman62-centos",
+    "platform":     "centos"
+}

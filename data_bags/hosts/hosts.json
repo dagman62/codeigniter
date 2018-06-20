@@ -1,0 +1,13 @@
+{
+    "id":           "host",
+    "chefip":       "192.168.1.123",
+    "cheffqdn":     "dagman62-centos.example.com",
+    "chefhost":     "dagman62-centos",
+    "webip":        "192.168.0.25",
+    "webfqdn":      "webserver.eample.com",
+    "webhost":      "webserver",
+    "dbip":         "192.168.0.26",
+    "dbfqdn":       "database.example.com",
+    "dbhost":       "database",
+    "platform":     "centos"
+}

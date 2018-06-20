@@ -1,0 +1,8 @@
+{
+    "id": "root",
+    "login": "root",
+    "dbname": "codeigniter",
+    "password": "admin",
+    "ipaddress": "192.168.0.26",
+    "platform": "centos"
+}

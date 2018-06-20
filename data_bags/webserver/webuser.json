@@ -1,0 +1,9 @@
+{
+    "id":           "webuser",
+    "login":        "webuser",
+    "dbname":       "codeigniter",
+    "password":     "admin123",
+    "rootpasswd":   "admin",
+    "dbip":         "192.168.0.26",
+    "platform":     "centos"
+}
